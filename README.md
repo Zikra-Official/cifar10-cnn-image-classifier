@@ -30,7 +30,7 @@ An end-to-end Deep Learning web app powered by **TensorFlow** and **Streamlit** 
 
 ## 📦 Dataset (CIFAR-10)
 
-Trained on 60,000 $32 \times 32$ RGB images across 10 classes:
+Trained on 60,000 32x32 RGB images across 10 classes:
 `Airplane` • `Automobile` • `Bird` • `Cat` • `Deer` • `Dog` • `Frog` • `Horse` • `Ship` • `Truck`
 
 ---
@@ -39,7 +39,7 @@ Trained on 60,000 $32 \times 32$ RGB images across 10 classes:
 
 ```bash
 # 1. Clone & Navigate
-git clone [https://github.com/YOUR_USERNAME/cifar10-cnn-image-classifier.git](https://github.com/YOUR_USERNAME/cifar10-cnn-image-classifier.git)
+git clone [https://github.com/Zikra-Official/cifar10-cnn-image-classifier.git](https://github.com/Zikra-Official/cifar10-cnn-image-classifier.git)
 cd cifar10-cnn-image-classifier
 
 # 2. Install Dependencies
